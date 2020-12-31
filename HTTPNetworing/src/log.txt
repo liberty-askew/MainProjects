@@ -1,0 +1,2257 @@
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:44:13
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/page3.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1144
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times 3 </title>
+</head>
+<body bgcolor = "#acdcef" text = "#000000">
+<p> <h1> Second Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:44:17
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/page3.htm
+HEAD:
+HTTP/1.1 404 Not Found
+Content-Type: invalid
+Content-Length: 52
+
+CONTENT:
+<html><body><h1>Content Not Found</h1></body></html>
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:44:21
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/page.html
+HEAD:
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Content-Length: 52
+
+CONTENT:
+<html><body><h1>Content Not Found</h1></body></html>
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:44:27
+PORT:12345
+REQUEST TYPE:HEAD
+FILEPATH:../www/page3.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1144
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:44:39
+PORT:12345
+REQUEST TYPE:HEA
+FILEPATH:../www/page3.html
+HEAD:
+HTTP/1.1 501 Not Implemented
+Content-Type: text/html
+Content-Length: 1144
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:45:00
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/another/beer.jpg
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Content-Length: 24552
+
+CONTENT:
+N/A - image file.
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:45:16
+PORT:12345
+REQUEST TYPE:DELETE
+FILEPATH:../www/another/beer.jpg
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Content-Length: 49
+
+CONTENT:
+<html><body><h1>File Deleted</h1></body></html>
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:50:24
+PORT:12345
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:50:24
+PORT:12345
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:50:24
+PORT:12345
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:50:28
+PORT:12345
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:50:28
+PORT:12345
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:50:28
+PORT:12345
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:50:30
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/page2.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 805
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times (2) </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+
+<body bgcolor = "#ffffcc" text = "#000000">
+
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+And, therefore education at the University mostly worked by the age-old method of 
+putting a lot of young people in the vicinity of a lot of books and hoping that 
+something would pass from one to the other, while the actual young people put themselves
+in the vicinity of inns and taverns for exactly the same reason.
+</p>
+
+<p> <img src="tp_it.jpg" /> </p>
+<p> <img src="beer.jpg" /> </p>
+
+<p>
+<a href=index.html> BACK </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:50:30
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/beer.jpg
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Content-Length: 24552
+
+CONTENT:
+N/A - image file.
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:52:01
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/page3.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1144
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times 3 </title>
+</head>
+<body bgcolor = "#acdcef" text = "#000000">
+<p> <h1> Second Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:52:02
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/page3.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1144
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times 3 </title>
+</head>
+<body bgcolor = "#acdcef" text = "#000000">
+<p> <h1> Second Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:52:44
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/page3.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1144
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times 3 </title>
+</head>
+<body bgcolor = "#acdcef" text = "#000000">
+<p> <h1> Second Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:52:55
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/page2.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 805
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times (2) </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+
+<body bgcolor = "#ffffcc" text = "#000000">
+
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+And, therefore education at the University mostly worked by the age-old method of 
+putting a lot of young people in the vicinity of a lot of books and hoping that 
+something would pass from one to the other, while the actual young people put themselves
+in the vicinity of inns and taverns for exactly the same reason.
+</p>
+
+<p> <img src="tp_it.jpg" /> </p>
+<p> <img src="beer.jpg" /> </p>
+
+<p>
+<a href=index.html> BACK </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:52:55
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/beer.jpg
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Content-Length: 24552
+
+CONTENT:
+N/A - image file.
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:52:55
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/tp_it.jpg
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Content-Length: 36384
+
+CONTENT:
+N/A - image file.
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:52:55
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/page2.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 805
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times (2) </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+
+<body bgcolor = "#ffffcc" text = "#000000">
+
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+And, therefore education at the University mostly worked by the age-old method of 
+putting a lot of young people in the vicinity of a lot of books and hoping that 
+something would pass from one to the other, while the actual young people put themselves
+in the vicinity of inns and taverns for exactly the same reason.
+</p>
+
+<p> <img src="tp_it.jpg" /> </p>
+<p> <img src="beer.jpg" /> </p>
+
+<p>
+<a href=index.html> BACK </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:52:55
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/beer.jpg
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Content-Length: 24552
+
+CONTENT:
+N/A - image file.
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:58:05
+PORT:12887
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test02_GET_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:58:07
+PORT:12642
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test03_GET_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:58:10
+PORT:12133
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test04_GET_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:58:12
+PORT:12907
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test05_GET_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/noFileWithThisName.html
+HEAD:
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Content-Length: 52
+
+CONTENT:
+<html><body><h1>Content Not Found</h1></body></html>
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:58:15
+PORT:12183
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:58:17
+PORT:12758
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1144
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times 3 </title>
+</head>
+<body bgcolor = "#acdcef" text = "#000000">
+<p> <h1> Second Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:58:19
+PORT:12329
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1097
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times 4 </title>
+</head>
+<body bgcolor = "#acdc00" text = "#000000">
+<p> <h1> Third Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:58:22
+PORT:12078
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:58:24
+PORT:12438
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:58:27
+PORT:12223
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:58:29
+PORT:12810
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/noFileWithThisName.html
+HEAD:
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Content-Length: 52
+
+CONTENT:
+<html><body><h1>Content Not Found</h1></body></html>
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:58:32
+PORT:12198
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 12:58:34
+PORT:12402
+REQUEST TYPE:SLURP
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 501 Not Implemented
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:02:13
+PORT:12525
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test02_GET_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:02:15
+PORT:12256
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test03_GET_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:02:18
+PORT:12526
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test04_GET_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:02:20
+PORT:12761
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test05_GET_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/noFileWithThisName.html
+HEAD:
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Content-Length: 52
+
+CONTENT:
+<html><body><h1>Content Not Found</h1></body></html>
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:02:23
+PORT:12812
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:02:25
+PORT:12472
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1144
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times 3 </title>
+</head>
+<body bgcolor = "#acdcef" text = "#000000">
+<p> <h1> Second Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:02:28
+PORT:12835
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1097
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times 4 </title>
+</head>
+<body bgcolor = "#acdc00" text = "#000000">
+<p> <h1> Third Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:02:30
+PORT:12925
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:02:32
+PORT:12628
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:02:35
+PORT:12792
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:02:38
+PORT:12906
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/noFileWithThisName.html
+HEAD:
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Content-Length: 52
+
+CONTENT:
+<html><body><h1>Content Not Found</h1></body></html>
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:02:40
+PORT:12856
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:02:42
+PORT:12234
+REQUEST TYPE:SLURP
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 501 Not Implemented
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:03:36
+PORT:12177
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test02_GET_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:03:39
+PORT:12651
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test03_GET_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:03:41
+PORT:12726
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test04_GET_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:03:44
+PORT:12389
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test05_GET_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/noFileWithThisName.html
+HEAD:
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Content-Length: 52
+
+CONTENT:
+<html><body><h1>Content Not Found</h1></body></html>
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:03:46
+PORT:12142
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:03:49
+PORT:12840
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1144
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times 3 </title>
+</head>
+<body bgcolor = "#acdcef" text = "#000000">
+<p> <h1> Second Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:03:51
+PORT:12375
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1097
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times 4 </title>
+</head>
+<body bgcolor = "#acdc00" text = "#000000">
+<p> <h1> Third Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:03:53
+PORT:12424
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:03:56
+PORT:12809
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:03:58
+PORT:12943
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:04:01
+PORT:12725
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/noFileWithThisName.html
+HEAD:
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Content-Length: 52
+
+CONTENT:
+<html><body><h1>Content Not Found</h1></body></html>
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:04:03
+PORT:12019
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 13:04:06
+PORT:12970
+REQUEST TYPE:SLURP
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 501 Not Implemented
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:23:34
+PORT:12118
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test02_GET_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:23:36
+PORT:12128
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test03_GET_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:23:39
+PORT:12045
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test04_GET_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:23:41
+PORT:12399
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test05_GET_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/noFileWithThisName.html
+HEAD:
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Content-Length: 52
+
+CONTENT:
+<html><body><h1>Content Not Found</h1></body></html>
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:23:44
+PORT:12442
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:23:46
+PORT:12666
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1144
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times 3 </title>
+</head>
+<body bgcolor = "#acdcef" text = "#000000">
+<p> <h1> Second Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:23:48
+PORT:12913
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1097
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times 4 </title>
+</head>
+<body bgcolor = "#acdc00" text = "#000000">
+<p> <h1> Third Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:23:51
+PORT:12472
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:23:53
+PORT:12649
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:23:56
+PORT:12662
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:23:58
+PORT:12802
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/noFileWithThisName.html
+HEAD:
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Content-Length: 52
+
+CONTENT:
+<html><body><h1>Content Not Found</h1></body></html>
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:24:01
+PORT:12300
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:24:03
+PORT:12258
+REQUEST TYPE:SLURP
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 501 Not Implemented
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:40:17
+PORT:12345
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:40:17
+PORT:12345
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:40:17
+PORT:12345
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:40:19
+PORT:12345
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:40:19
+PORT:12345
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:40:19
+PORT:12345
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:40:20
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/another/beer.jpg
+HEAD:
+HTTP/1.1 404 Not Found
+Content-Type: image/jpg
+Content-Length: 52
+
+CONTENT:
+<html><body><h1>Content Not Found</h1></body></html>
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:40:22
+PORT:12345
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:40:22
+PORT:12345
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:40:22
+PORT:12345
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:40:34
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/earth.gif
+HEAD:
+HTTP/1.1 404 Not Found
+Content-Type: image/gif
+Content-Length: 52
+
+CONTENT:
+<html><body><h1>Content Not Found</h1></body></html>
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:40:35
+PORT:12345
+REQUEST TYPE:GET
+FILEPATH:../www/extra/earth.gif
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: image/gif
+Content-Length: 363021
+
+CONTENT:
+N/A - image file.
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:43:49
+PORT:12537
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test02_GET_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:43:51
+PORT:12104
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test03_GET_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:43:53
+PORT:12098
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test04_GET_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:43:56
+PORT:12925
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test05_GET_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/noFileWithThisName.html
+HEAD:
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Content-Length: 52
+
+CONTENT:
+<html><body><h1>Content Not Found</h1></body></html>
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:43:58
+PORT:12165
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:44:01
+PORT:12915
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1144
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times 3 </title>
+</head>
+<body bgcolor = "#acdcef" text = "#000000">
+<p> <h1> Second Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:44:03
+PORT:12753
+REQUEST TYPE:GET
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1097
+
+CONTENT:
+<html>
+<head>
+<title> Interesting Times 4 </title>
+</head>
+<body bgcolor = "#acdc00" text = "#000000">
+<p> <h1> Third Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+</body>
+</html>
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:44:05
+PORT:12224
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:44:08
+PORT:12965
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:44:10
+PORT:12171
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:44:13
+PORT:12242
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/noFileWithThisName.html
+HEAD:
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Content-Length: 52
+
+CONTENT:
+<html><body><h1>Content Not Found</h1></body></html>
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:44:15
+PORT:12232
+REQUEST TYPE:HEAD
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1279
+
+
+--------------------------NEW SOCKET------------------------------
+TIME:2020-11-06 19:44:18
+PORT:12326
+REQUEST TYPE:SLURP
+FILEPATH:/cs/studres/2020_2021/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/index.html
+HEAD:
+HTTP/1.1 501 Not Implemented
+Content-Type: text/html
+Content-Length: 1279
+

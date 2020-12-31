@@ -1,0 +1,43 @@
+SHAPE DRAWING PANEL
+200024105
+=============================================================================
+Select a shape from Shapes on menu bar and drag your mouse to draw the shape. If the mouse it released outside of the frame, the shape will not be drawn.
+
+RUN FROM COMMAND LINE: 
+Navigate to CS5001-p4-FINAL/src and run:
+ java app.App
+
+TESTS: 
+Navigate to CS5001-p4-FINAL/ and run:
+javac -cp ./junit.jar:./hamcrest.jar:./src/view/*.java:./src/model/*.java:./src/app/*.java:./src/controller/*.java:./src/:. tests/model_test.java
+
+
+javac -cp ./junit.jar:./hamcrest.jar:./src/view/*.java:./src/model/*.java:./src/app/*.java:./src/controller/*.java:./src/:. org.junit.runner.JUnitCore tests/model_test
+
+BASIC:
+The shapes will match the dimensions drawn by your mouse and location. For triangle, pentagon, hexagon and octagon the width and height of the box drawn by your mouse will be the maximum width and height of these shapes.
+
+LOCK RATIO:
+For all shapes; press shift before clicking the mouse and hold until after the mouse has been released to lock aspect ratios. This will draw a regular polygon or star for which ever shape you have selected. The dimensions of this shape will be of equal width (at widest point) and height (at tallest point) as determined by the minimum value of height or width for the box drawn by your mouse. 
+
+
+FILL:
+Under Draw Style: is a Fill tick. Select fill for the shape drawn to be filled in the selected colour. Fill will be selected until manually deselected. 
+This is off by default.
+
+COLOURS:
+Under Draw Style: is an option to select colour from a colour panel. 
+This is red by default.
+
+THICKNESS:
+Under Draw Style is an option to select the thickness of the drawing pen Thin, Medium, Thick. Only one can be selected so selecting one automatically deselects the other. 
+This is medium by default.
+
+UNDO:
+undo the most recent drawing. Can be selected multiple times until canvas is blank.
+
+REDO:
+if undo has been used AND NO DRAWING HAS BEEN MADE SINCE then you can redo the most recent drawing. This can be done until the point where the undo sequence started. 
+
+CLEAR: 
+this will clear the entire panel and remove all drawings. This can be undone by using redo.
